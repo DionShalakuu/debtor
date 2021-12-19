@@ -23,21 +23,21 @@
     },
     {
         "id":4,
-        "name":"Lucian",
+        "name":"Leona",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
     },
     {
         "id":5,
-        "name":"Lucian",
+        "name":"Azir",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
     },
     {
         "id":6,
-        "name":"Lucian",
+        "name":"Zed",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
@@ -51,21 +51,21 @@
     },
      {
         "id":8,
-        "name":"Lucian",
+        "name":"Ziggs",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
     },
      {
         "id":9,
-        "name":"Lucian",
+        "name":"Vayne",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
     },
      {
         "id":10,
-        "name":"Lucian",
+        "name":"Jayce",
         "debtAmount":123,
         "debtDate":"2021-12-18",
         "img":"https://image.pngaaa.com/275/4065275-middle.png"
